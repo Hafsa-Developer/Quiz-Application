@@ -14,13 +14,13 @@ A simple, interactive web-based quiz application that tests users on fundamental
 - Compatibility: Works on all modern browsers
 
 ## How to Use
-Open the application in your browser 👉🏻 https://hafsa-developer.github.io/Quiz-Application/ 
-Read each question carefully
-Click on your chosen answer
-The app will indicate if you're correct/incorrect
-Click "Next" to proceed
-View your final score at the end
-Click "Play Again" to restart
+- Open the application in your browser 👉🏻 https://hafsa-developer.github.io/Quiz-Application/                                                               
+- Read each question carefully
+- Click on your chosen answer
+- The app will indicate if you're correct/incorrect
+- Click "Next" to proceed
+- View your final score at the end
+- Click "Play Again" to restart
 
 ## Credits
 Developed by Hafsa-Developer
